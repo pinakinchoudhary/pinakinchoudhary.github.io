@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "graduation-cap"
+    },
+    "text": "ML Reasearch & Development"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "school"
+    },
+    "type": "lucide",
+    "text": "Indian Institute of Science, Bangalore"
+  }
+]
